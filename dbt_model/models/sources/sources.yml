@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: online_retail
+    database:postgres
+    schema: online_retail
+    tables:
+      - name: raw_invoices
+      - name: raw_country
+
