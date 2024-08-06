@@ -1,0 +1,9 @@
+dbt-core
+dbt-postgres
+pandas
+psycopg2-binary
+SQLAlchemy
+apache-airflow-providers-postgres
+astronomer-cosmos
+python-dotenv
+requests
