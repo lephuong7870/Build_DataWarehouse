@@ -1,0 +1,14 @@
+apache-airflow
+pandas
+snowflake-connector-python
+snowflake-sqlalchemy
+SQLAlchemy
+pandas
+psycopg2-binary
+python-dotenv
+numpy
+dbt-core
+dbt-snowflake
+astronomer-cosmos
+apache-airflow-providers-snowflake
+pyarrow==10.0.1
